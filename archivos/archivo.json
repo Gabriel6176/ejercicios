@@ -1,0 +1,23 @@
+{
+    "Empresa": "Python",
+    "Clients": [
+        {
+            "first_name": "XXX",
+            "last_name": "Gomez",
+            "age": "28",
+            "ammount": 7.17
+        },
+        {
+            "first_name": "YYY",
+            "last_name": "Perez",
+            "age": "29",
+            "ammount": 8.18
+        },
+        {
+            "first_name": "ZZZ",
+            "last_name": "Ruiz",
+            "age": "30",
+            "ammount": 9.19
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+<MyGridLayout>
+    id:id
+    nombre:nombre
+    apellido:apellido
+    edad:edad
+    dni:dni
+    telefono:telefono
+    dignostico:diagnostico
+    
+    GridLayout:
+        cols:1
+        size: root.width, root.height
+        GridLayout:
+            cols:2
+
+            Label:
+                text: "#ID"
+            TextInput:
+                id: id
+                multiline:False
+            Label:
+                text: "Nombre"
+            TextInput:
+                id: nombre
+                multiline:False
+            Label:
+                text: "Apellido"
+            TextInput:
+                id: apellido
+                multiline:False
+            Label:
+                text: "Edad"
+            TextInput:
+                id: edad
+                multiline:False
+            Label:
+                text: "DNI"
+            Textinput:
+                id: dni
+                multiline:False
+            Label:
+                text: "Telefono"
+            TextInput:
+                id: telefono
+                multiline:False
+            Label:
+                text: "Dignostico"
+            TextInput:
+                id: diagnostico
+                multiline:False
+        Button:
+            text: "Agregar"
+            on_press: root.press()
+        Button:
+            text: "Buscar"
+        Button:
+            text: "Actualizar"
+        Button:
+            text: "Listado"
+                    

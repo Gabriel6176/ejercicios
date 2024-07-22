@@ -1,0 +1,167 @@
+#: import utils kivy.utils
+#: import Checkbox kivy.uix.checkbox
+
+#esto es para usar los colores hexadecimales
+
+#<CustomLabel@Label>
+#    color: 1,0,0,1
+
+<MyGridLayout>
+    iden:iden
+    nombre:nombre
+    apellido:apellido
+    edad:edad
+    afiliado:afiliado
+    telefono:telefono
+    mama:mama
+    papa:papa
+    derivado:derivado
+    fecha_ini:fecha_ini
+
+    GridLayout:
+        cols:1
+        #esto hace que tome la medida total de lapantalla
+        size: root.width, root.height
+        GridLayout:
+            cols:1
+            size_hint_y: .7
+            BoxLayout:
+                orientation:"horizontal"
+                Label:
+                    text: "ID#"
+                    size_hint_x: .3
+                TextInput:
+                    id:iden
+                    multiline:False
+                    #background_color: utils.get_color_from_hex('#5FD616')
+                    size_hint_x: .7
+                Label:
+                    text: "Afiliado"
+                    size_hint_x: .3
+                    background_normal: ""
+                    frontground_color: (1,1,0,1)
+                TextInput:
+                    id:afiliado
+                    multiline:False
+                    size_hint_x: .7  
+            BoxLayout:
+                orientation:"horizontal"
+                Label:
+                    text: "Nombre"
+                    size_hint_x: .3
+                TextInput:
+                    id:nombre
+                    multiline:False
+                    size_hint_x: .7
+                Label:
+                    text: "Apellido"
+                    size_hint_x: .3
+                TextInput:
+                    id:apellido
+                    multiline:False
+                    size_hint_x: .7
+            BoxLayout:
+                orientation: "horizontal"
+                Label:
+                    text: "Edad"
+                    size_hint_x: .3
+                    background_normal: ""
+                    frontground_color: (1,1,0,1)
+                TextInput:
+                    id:edad
+                    multiline:False
+                    size_hint_x: .7
+                Label:
+                    text: "Telefono"
+                    size_hint_x: .3
+                    background_normal: ""
+                    frontground_color: (1,1,0,1)
+                TextInput:
+                    id:telefono
+                    multiline:False
+                    size_hint_x: .7       
+            BoxLayout:
+                orientation: "horizontal"
+                Label:
+                    text: "Mamá"
+                    size_hint_x: .3
+                    background_normal: ""
+                    frontground_color: (1,1,0,1)
+                TextInput:
+                    id:mama
+                    multiline:False
+                    size_hint_x: .7       
+                Label:
+                    text: "Papá"
+                    size_hint_x: .3
+                    background_normal: ""
+                    frontground_color: (1,1,0,1)
+                TextInput:
+                    id:papa
+                    multiline:False
+                    size_hint_x: .7         
+            BoxLayout:
+                orientation: "horizontal"
+                Label:
+                    text: "Derivado"
+                    size_hint_x: .3
+                    #background_normal: ""
+                    #frontground_color: (1,1,0,1)
+                TextInput:
+                    id:derivado
+                    multiline:False
+                    size_hint_x: .7
+                Label:
+                    text: "Fecha Ini"
+                    size_hint_x: .3
+                    background_normal: ""
+                    frontground_color: (1,1,0,1)
+                TextInput:
+                    id:fecha_ini
+                    multiline:False
+                    size_hint_x: .7                                  
+        GridLayout:
+            cols:2
+            size_hint_y: .3
+            Button:
+                text: "Agregar"
+                font_size: 32
+                on_press: root.press()
+                background_color: (0,1,0,1)
+            Button:
+                text: "Listado"
+                font_size: 32
+                background_color: (1,1,0,1)
+            Button:
+                text: "Modificar"
+                font_size: 32
+                #est background normal hace como una capa gris para que el color se vea rojo, azul el que sea
+                background_normal: ""
+                background_color: utils.get_color_from_hex('#5FD616')    
+            Button:
+                text: "Bajar"
+                font_size: 32
+                background_color: (1,1,0,1)
+                   
+            Button:
+                text: "Leer"
+                font_size: 32
+                background_color: (0,0,1,1)
+            Button:
+                text: "Subir"
+                font_size: 32
+                background_color: (1,1,0,1)  
+#            Slider:
+#                id: slider_id   
+#                min: -100
+#                max: 100
+#                value: 0
+#                step: 1
+#            BoxLayout:
+#                orientation: "horizontal"
+#                size_hint_x: .5
+#                CustomLabel:
+#                    text: "SI - NO"
+#                Switch:
+#                    id: switch_id
+#                    on_active: root.switch_on(self, self.active)    
