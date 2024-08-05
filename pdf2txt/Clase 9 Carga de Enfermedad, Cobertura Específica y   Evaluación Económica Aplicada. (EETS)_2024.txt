@@ -1,0 +1,730 @@
+Maestría en Economía y Gestión de la Salud 
+Materia: Economía de la Salud aplicada a Gestión Sanitaria 
+Unidad 3: Análisis y Herramientas de Economía de Salud y de Macrogestión 
+Sanitaria. 
+
+Clase  9:  Carga  de  Enfermedad,  Cobertura  Específica  y  Evaluación Económica 
+Aplicada. (EETS) 
+Introducción: 
+Uno de los principales desafíos de la Macrogestión de Políticas Sanitarias lo constituye 
+la  identificación  de  las  Necesidades  de  Salud  de  la  Población.  En  relación  a  dichas 
+Necesidades  de  Salud  en  años  recientes  se  desarrollaron  diversas  de  metodologías  de 
+medición  de  las  patologías  prevalentes  por  país.  Entre  ellos  se  destaca  el  enfoque  de 
+“Carga de Enfermedad” utilizado a nivel mundial como así como también por países. A 
+los  fines  de  avanzar  en  su  análisis,  en  esta  clase  se  presentarán  las  metodologías  de 
+Evaluación Económica de Tecnologías de Salud, con identificación de sus unidades de 
+beneficios y de costos. Y a partir de allí se describirán los conceptos de “Carga Global de 
+Enfermedad” y de “Carga de Enfermedad” por país y para realizar una primer aplicación 
+a los casos de algunos de los países de LAC. Por  último, se presentaran los conceptos de 
+Cobertura Explicitas de las Necesidades de Salud y de sus herramientas. 
+Contenidos: 
+Carga de Enfermedad Global y por país. La medición de la Carga de Enfermedad Global. 
+La Evaluación Económica de Tecnologías de Salud (EETS) para la medición. El caso de 
+Enfermedades Crónicas No transmisibles. Cobertura Explicita de Necesidades de Salud 
+y sus herramientas. 
+1.-Evaluación Económica de Tecnologías Sanitarias (EETS). 
+Una  tecnología  sanitaria  se  define  como  el  conjunto  de  medicamentos,  dispositivos  y 
+procedimientos  médicos  o  quirúrgicos  usados  en  la  atención  sanitaria,  incluyendo  a  sus 
+ 
+sistemas organizativos y de soporte. (MSAL 2012).su objetivo es proveer a los decisores 
+de  información  basada en  evidencias,  que  sea  accesible  y fácil  de  utilizar,  con  el  fin  de 
+guiar las decisiones sobre uso y difusión de tecnologías sanitarias y la asignación eficiente 
+de los recursos. Por esta razón, la EETS ha sido considerada “un puente entre el mundo de 
+la  evidencia  científica  y  el  mundo  de  la  toma  de  decisiones  sanitarias”  ya  que  provee 
+información para los decisores sanitarios en el macro-, meso- y micro-nivel (Battista 1999). 
+El  desarrollo  de  la  EETS  ha  avanzado  con  notoriedad  en  los  últimos  20  años  y  hoy  es 
+indispensable en los sistemas de salud y no sólo en los países desarrollados, sin embargo 
+hay estimaciones que muestran que más del 90% de los procedimientos médicos nunca han 
+sido evaluados en términos de su costo-efectividad. (IECS 2012) 
+Es así, como algunas de las innovaciones que se han incorporado a los sistemas de salud 
+en  los  últimos  años  han  representado  una  mejora  en  la  efectividad  y  calidad  con  costos 
+significativamente más bajos; otras han representado mejoras en la salud pero también han 
+sido  responsables  de  aumentos  en  los  costos  sanitarios  (Cutler  &  McClellan,  2001; 
+Newhouse,  1992)  y  otras  no  han  reportado  ningún  beneficio  o  han  sido  directamente 
+perjudiciales.  El  mayor  desarrollo  de  tecnologías  sanitarias  se  ha  visto  acompañado, 
+además,  de  otros  factores  que  han  influenciado  a  los  sistemas  de  saluden  las  últimas 
+décadas. La aparición de nuevas enfermedades, el envejecimiento de la población, mayores 
+expectativas de acceso y usuarios más informados, han resultado en una mayor demanda 
+de nuevos productos sanitarios (Deyo 2002). 
+La EETS tiene sus orígenes en esta creciente preocupación por la expansión de nuevas y 
+costosas tecnologías sanitarias en los 1970s y la capacidad de los sistemas de salud para 
+financiar su uso (Jonsson & Banta 1999). 
+La  evaluación  de  tecnologías  sanitarias  evolucionó  desde  1970  para  convertirse  en  una 
+especialidad multidisciplinaria cuyo propósito es lograr unir la evidencia disponible con el 
+fin de ayudar a los decisores sanitarios, profesionales de la salud y pacientes a entenderé 
+valor  relativo  de  las  tecnologías  (Gabbay  2006).  En  este  proceso  la  EETS  evalúa  la 
+seguridad,  efectividad  y  costos  de  las  tecnologías  e  idealmente  también  realiza  una 
+evaluación más amplia del impacto desde un punto de vista ético y social. 
+ 
+Existe  una  red  global  de  agencias  de  EETS  integrada  por  instituciones  dedicadas  al 
+desarrollo de EETS en más de 40 países (INAHTA), una sociedad internacional que nuclea 
+a  todos  aquellos  que  producen  o  utilizan  ETS  (HTAi)  y  también  Europaha  creado 
+recientemente una red específica de EETS (EunetHTA). 
+En la región de Latino-América y el Caribe (LAC) también han surgido varias iniciativas 
+relacionadas con la ETS. Argentina, Chile, Brasil y México cuentan con agencias de EETS 
+miembros de INAHTA y diversos países (entre otros Colombia, Perú, Uruguay y Panamá) 
+han  comenzado  a  aplicar,  en  diferente  medida,  la  EETS  en  la  toma  de  decisiones  sobre 
+asignación  de  recursos.  Sin  embargo,  el  nivel  de  desarrollo  de  la  EETS  en  la  región  es 
+todavía muy bajo. 
+En forma más específica, la EETS es la evaluación de una intervención a través de 
+la producción, síntesis y/o revisión sistemática de un amplio rango de evidencia 
+científica. Esta evaluación examina sistemáticamente las características técnicas de 
+una  tecnología  sanitaria,  su  seguridad,  eficacia  efectividad  clínicas,  costos,  costo-
+efectividad, implicancias organizacionales, consecuencias sociales y consideraciones 
+éticas y legales de su aplicación 
+2.- Criterios de EETS: 
+2.1.-Criterio de Eficacia 
+Para  responder  a  esta  pregunta  es  imprescindible  la  existencia  de  evidencia  de  buena 
+calidad. Si no hay evidencia que dicha tecnología sea superior a su comparador en relación 
+a resultados (“outcomes”) relevantes para el sistema de salud, no tiene sentido utilizarla, 
+indicarla o financiarla (aunque viviéramos en un mundo ideal con recursos ilimitados). Por 
+ejemplo,  un  ensayo  clínico  aleatorizado  publicado  en  2009  reportó  que  la  adición  de 
+cetuximab a la combinación de otros quimioterápicos en cáncer de colon no sólo redujo la 
+sobrevida libre de enfermedad sino que también disminuyó la calidad de vida (Tol 2009). 
+En este caso parece muy claro que esta tecnología no es eficaz para ese grupo de pacientes 
+y no tiene sentido incorporarla. 
+ 
+2.2.-Criterio de Efectividad 
+Acá surge el concepto de efectividad, para responder esta pregunta tenemos que a, y contar 
+con evidencia acerca de la tecnología “en el mundo real”, en la práctica cotidiana. Aunque 
+no  hay  un  consenso  unánime  al  respecto,  las  herramientas  habituales  para    evaluar  la 
+efectividad  (recientemente 
+llamada 
+investigación  de  efectividad  comparativa,  o 
+comparative  effectiveness  research)  son  los  llamados  ensayos  pragmáticos,  o  prácticos. 
+Los  mismos  se  caracterizan  por  seleccionar  intervenciones  clínicamente  relevantes  a 
+comparar  (no  suelen  utilizar  placebo),  incorporar  a  un  grupo  heterogéneo  de  pacientes, 
+similar al de la práctica cotidiana y de distintos ámbitos de atención, y recolectar un amplio 
+espectro  de  resultados  (por  ejemplo  mortalidad,  morbilidad,  calidad  de  vida).  (Tunis, 
+2003). 
+2.3.-Criterio de Costo Efectividad: 
+Acá  surge  los  conceptos  de  (Eficiencia,  Costo  -efectividad,)  Esta  es  una  pregunta  más 
+delicada y es el campo más específico de las EETS. Provee una herramienta explícita para 
+evaluar el balance riesgo beneficio largo plazo de las tecnologías, en el contexto en el que 
+se planean utilizar. Existen distintos conceptos que hacen referencia a ese “vale la pena”. 
+El más amplio de ellos es el concepto de eficiencia, que de alguna manera relaciona otros 
+dos conceptos: la calidad y los costos. Lo que se trata de evaluar es la relación entre el valor 
+que la tecnología provee (en términos de beneficios sanitarios) y el costo monetario de la 
+misma. 
+Sobre el proceso de realización de una EETS podemos hacer una analogía con el trabajo 
+de un sastre: cada traje es único (así como cada situación o sistema de salud es única), para 
+una situación particular, con un grupo desinteresados particular (en lugar de la  novia, el 
+novio, y la familia, en nuestro caso están los interesados de los distintos niveles de toma de 
+decisiones en salud, del macro al micro). Vimos algunos ejemplos de “cómo, en realidad, 
+existe un traje para cada novio”. 
+Pero para seguir avanzando, es importante explicar el concepto de “costo de oportunidad”. 
+Como hemos dicho,  los  recursos son limitados  entonces elegir una alternativa  significa 
+que  hay  otras  cosas  que  no  podremos  hacer.  Éste  es  el  costo  de 
+ 
+oportunidad.  Utilizar  los  recursos  en  una  determinada  intervención  significa  que  hemos 
+perdido  la  oportunidad  de  utilizarlos  en  otras  intervenciones,  y  esto  pasa  en  todos  los 
+ámbitos,  en  nuestra  cotidianidad  entre  dos  opciones  hasta  qué  tecnología  tenemos  que 
+introducir  al  sistema  de  salud,  esto  nos  abre  paso  para  explicar  que  las  Evaluaciones 
+Económicas comparan los costos y las consecuencias de dos o más intervenciones de salud 
+y ayudan a analizaren profundidad el marco en el que se realizan. 
+2.4.-Las barreras de acceso a las Tecnología de Salud: 
+En la gran mayoría de los países del mundo existen las denominadas tres barreras -o vallas- 
+para que una nueva tecnología, y en especial las nuevas drogas, puedan ser licenciadas y 
+prescriptas por los profesionales y comercializadas en las farmacias o droguerías. 
+Estas tres barreras son: 
+1. La calidad: el fabricante de una tecnología debe garantizar que la misma cumpla con 
+normas de manufactura de alta calidad, y se siga los estándares de calidad de fabricación 
+de las tecnologías. 
+2. La  seguridad:  mediante  las  distintas  fases  de la  investigación  clínica  (en  especial  las 
+fases  I,  II  y  III),  la  tecnología  que  saldrá  a  la  venta  debe  ofrecer  un  perfil  de  seguridad 
+razonable.  En  estas  fases  se  pueden  detectar  efectos  adversos  relativamente  frecuentes; 
+haya algunos eventos adversos más infrecuentes que por ahora sólo pueden ser detectados 
+en  estudios  de  fármaco-vigilancia  (o  fase  IV)  una  vez  que  la  tecnología  haya  salido  al 
+mercado. 
+3.  La  eficacia:  la  última  barrera  tradicional  es  la  de  la  eficacia.  Para  obtener  el 
+licenciamiento  de una nueva  tecnología  se debe demostrar que es eficaz,  o sea debe ser 
+mejor  (o  a  veces  similar)  que  su  comparador  en  los  ensayos  clínicos.  Aunque  el 
+movimiento de Investigación de Efectividad Comparativa aboga por el uso de uno o varios 
+comparadores relevantes utilizados en determinada patología, muchas veces las agencias 
+regulatorias se conforman (por ahora) con que la nueva tecnología sea superior 
+ 
+al placebo. Por ejemplo, la aprobación de un nuevo anti-inflamatorio puede ser realizada 
+en base a la demostración de que sus efectos son mejores que el placebo en lugar de ser 
+comparada  con  el  ibuprofeno,  o  diclofenac.  Si  bien  hay  diferencias  entre  las  agencias 
+regulatorias de los distintos países, esta tercer barrera de la eficacia no siempre se aplica 
+con la  misma rigurosidad. En los  casos en que la  nueva  tecnología implica  riesgos (por 
+ejemplo  drogas  oncológicas)  la  exigencia  de  evidencia  sobre  eficacia  es  mayor.  Sin 
+embargo, hay muchos otros casos de intervenciones donde el riesgo es considerado bajo 
+(por ejemplo las vitaminas) y la exigencia de eficacia suele ser más laxa. (IECS 2012) 
+Al superar estas tres barreras, en muchos países del mundo la tecnología obtiene su licencia 
+y puede comercializarse. Ejemplos de estas agencias son la FDA de EE.UU.; la ANMAT 
+de Argentina o el NICE en Reino Unido. 
+Sin embargo estas tres barreras son insuficientes, ya que ningún sistema de salud es  capaz 
+de cubrir todas las tecnologías eficaces. Es por ello que muchos países han incorporado 
+algún  tipo  de  cuarta  barrera,  o  barrera  de  costo-efectividad.  No  alcanza  con  haber 
+demostrado  que  una  tecnología  es  de  calidad,  segura  y  eficaz;  debe  también  mostrar 
+evidencia  de  costo-efectividad.  En  otras  palabras:  ¿produce  esta  nueva  tecnología 
+beneficios  sanitarios  relevantes  (por  sobre  los  tratamientos  actualmente  disponibles)  en 
+relación a su costo adicional?, vale la pena el costo de esta nueva tecnología en relación a 
+los beneficios que ofrece?, asimismo, ¿cuál será su impacto presupuestario en el sistema 
+de salud? No es lo mismo considerar la incorporación de una droga para el tratamiento de 
+una patología muy infrecuente que afecta uno de cada 10.000 ciudadanos, que una nueva 
+droga para la hipertensión arterial, que la padecen uno de cada 3 adultos. (IECS 2012) 
+3.- Las Evaluaciones Económicas: 
+Las EE tratan de evaluar la eficiencia de las tecnologías en determinado sistema de salud y 
+constituyen  una  vara  para  medir  en  términos  relativos  cuánto  valen  la  pena  distintas 
+tecnologías. Los análisis de impacto presupuestario tratan de estimar cuánto va a costar (o 
+a ahorrar) la implementación de una tecnología en el corto y mediano plazo, en un contexto 
+determinado. (IECS 2012) 
+ 
+Las EE analizan los costos y las consecuencias de la aplicación de una tecnología sanitaria 
+de manera de aportar la información necesaria para determinar, por ejemplo en este caso, 
+si  esta  relación  entre los costos y los beneficios está dentro de los  límites aceptables de 
+acuerdo a los criterios que se le impongan. 
+Como los recursos son limitados, elegir una alternativa significa que hay otras cosas que 
+no  podremos  hacer.  Éste  es  el  costo  de  oportunidad.  Utilizar  los  recursos  en  una 
+determinada intervención significa que hemos perdido la oportunidad de utilizarlos en otras 
+intervenciones. 
+Las EE pueden tener en cuenta dos dimensiones de las intervenciones sanitarias: sus efectos 
+y  sus  costos.  Los  estudios  que  tienen  en  cuenta  solo  una  de  estas  dos  dimensiones  son 
+llamados EE Parciales. 
+3.1.-Minimización de costos: 
+En estos estudios ambas alternativas producen el mismo resultado, es decir que no tienen 
+diferencias  en  cuanto  a  su  efectividad  (son  equi-efectivos).  No  hay  que  olvidar  que  la 
+efectividad  debe  ser  considerada  en  forma  amplia  y  no  se  refiere  únicamente  a  un  solo 
+resultado clínico. 
+Por ejemplo, si dos drogas son igualmente efectivas en cuanto su capacidad para reducir la 
+mortalidad por una determinada condición, pero una de estas dos drogas produce severos 
+efectos adversos, no podrá decirse entonces que son equivalentes. 
+El  objetivo  principal  de  los  estudios  de  costo-minimización  es  encontrar  la  alternativa 
+menos costosa, dado que las consecuencias son las mismas. 
+Una  utilidad  adicional  de  estos  estudios  es  identificar  la  distribución  de  los  costos  y 
+explicar por qué una alternativa resulta menos costosa. Por ejemplo, la cirugía correctiva 
+de la miopía puede hacerse en forma ambulatoria o con internación. Ambas alternativas 
+son  igual  de  eficaces  y  efectivas  pero  la  primera  es  menos  costosa.  Por  supuesto  estas 
+evaluaciones son raras de encontrar puesto que son pocas las intervenciones equi- efectivas. 
+ 
+El análisis de costo-minimización se utiliza cuando se comparan dos intervenciones en las 
+que estudios previos han demostrado que tienen igual eficacia y efectividad. 
+3.2 Costo –efectividad 
+Los beneficios se miden en unidades naturales. Algunos ejemplos pueden ser: años de vida 
+ganados, milímetros de mercurio de presión arterial bajados, kilogramos de peso perdidos, 
+casos de cáncer de mama detectados o infartos evitados. 
+En este caso, la medida de evaluación de los beneficios es común a ambas alternativas. 
+Para compararlas, se estimará la diferencia de costos y la diferencia en efectos entre ambas 
+y se calculará la razón o tasa de costo-efectividad. 
+En los estudios de costo-efectividad se selecciona un parámetro natural común a ambas 
+alternativas  que  se  están  evaluando.  No  permite  la  comparación  de  opciones  que  no 
+presenten un resultado en común. 
+Los estudios de costo-efectividad son muy útiles pero presentan algunos inconvenientes. 
+1) Puede haber intervenciones que producen más de un resultado clínico (muy habitual), 
+por lo que el resultado final no podrá resumirse en un único valor. 
+2)  Los  estudios  de  costo-efectividad  no  permiten  comparar  intervenciones  en  áreas 
+diferentes,  o  incluso  en  áreas  similares  si  se  eligieron  diferentes  medidas  de  costo- 
+efectividad. (IECS 2012. 
+Es en parte por estos motivos que los estudios de costo-efectividad han sido gradualmente 
+reemplazados por los de costo utilidad. 
+3.3.-Análisis de costo –utilidad 
+Actualmente es la de EE más utilizada, debido a  la manera de medir las consecuencias  ya 
+que es una combinación entre los años vividos y la calidad de vida. Este tipo de análisis se 
+utiliza por tres razones fundamentales en distintas situaciones: 
+•  Cuando  las  intervenciones  tienen  múltiples  consecuencias,  y  todas  nos  interesan,  por 
+ejemplo en el tratamiento del sedentarismo podemos estar interesados en evaluar el 
+ 
+entrenamiento  físico,  los  kilogramos  de  peso  perdido,  la  prevención  cardiovascular 
+(número  de  infartos  prevenidos,  años  de  vida  ganados),  mejora  de  la  dislipemia, 
+disminución de la depresión y la ansiedad. (IECS 2012) 
+•  Cuando nos interesa obtener un resultado que permita luego comparar alternativas que 
+no se relacionan entre sí y no comparten las consecuencias. Por ejemplo nos interesa poder 
+decidir  o  comparar  la  costo-utilidad  de  un  tratamiento  de  la  desnutrición  con  otras 
+intervenciones no relacionadas como podría ser el tratamiento del infarto. 
+•  Cuando estamos particularmente interesados en medir tanto la sobrevida como la calidad 
+de vida que esa sobrevida conlleva. 
+La  gran  ventaja  de  los  estudios  de  costo-utilidad  es  que  nos  permiten  resumir  todos  los 
+efectos  de  las  intervenciones  en  un  único  valor.  Un  tratamiento  determinado  puede 
+prolongar la vida, evitar internaciones y mejorar un síntoma a la vez que produce un efecto 
+adverso grave o cierta complicación. 
+Existen diferentes medidas propuestas para ser utilizadas en este tipo de estudios y que nos 
+den una idea de la vida saludable, o visto desde lo complementario, la carga de enfermedad. 
+En forma simplificada, consideramos que una determinada enfermedad o condición puede 
+afectar negativamente la salud de dos formas: 
+•  Restando años de vida (cuando conlleva un riesgo de muerte) 
+•  Generando discapacidad 
+En  estos  estudios  es  donde  surgen  los  conceptos  de  AVAC  y  AVAD,  el  cual  se 
+profundizará más adelante en el módulo. 
+3.4.- Costo-Beneficio: Es el único tipo de evaluación económica en el que tanto los costos 
+como  los  resultados  se  miden  en  unidades  monetarias,  de  esta  manera  se  facilita  la 
+comparación  entre  costos  y  beneficios.  Es,  quizás,  la  modalidad  de  análisis  económico 
+ 
+menos utilizada dada las implicaciones éticas y la dificultad de atribuir valor económico  a 
+la vida humana. 
+Inicialmente, en todo análisis económico se deben estudiar cuáles van a ser los costos a 
+considerar, fijos o variables, directos o indirectos, tangibles o intangibles, pagados por  los 
+pacientes,  la  administración  sanitaria  o  la  industria.  La  adecuada  identificación  de  los 
+costos y resultados es el aspecto más importante que se debe considerar cuando se diseña 
+un estudio de evaluación económica en sanidad. (Guía MERCOSUR 2008) 
+En este caso, los resultados clínicos se traducen a unidades monetarias, por lo tanto requiere 
+que  se  le  pre-adjudique  un  valor  monetario  a  las  consecuencias.  Por  ejemplo,  implica 
+definir cuál es el valor monetario de una vida, lo cual es un modo no agrada a los médicos 
+ni a la población general motivo por el cual este tipo de estudios no es muy frecuente en la 
+literatura. 
+3.5.-Debilidades las Evaluaciones Económicas 
+Claro que si, por ejemplo frente a una evaluación económica realizada en el Reino Unido, 
+esta misma evaluación y la decisión que conlleva, no la podemos aplicar en Argentina , 
+Brasil o cualquier otro país, sino que solo se puede usar como base pero hay que realizar 
+un estudio propio para la mayoría de las casos. 
+Existe diversos factores que hacen que a la costo-efectividad de las tecnologías varíe de un 
+lugar a otro. Los mismos se pueden agrupar en aspectos relacionados al comportamiento 
+del  problema  de  salud  en  el  ámbito  local  (por  ejemplo  la  incidencia,  o  la  severidad  del 
+problema  en  cuestión);  la  disponibilidad  de  recursos  sanitarios  (por  ejemplo  los 
+tratamientos disponibles para tratarlo); las prácticas de tratamiento locales (por ejemplo, 
+en  EE.UU.  tienen  prácticas  más  “invasivas”  para  manejar  la  enfermedad  coronaria  en 
+relación a la mayoría de los países de Europa); y también las diferencia de costos, sobre 
+todo de los costos relativos (por ejemplo, en la mayoría de los países de nuestra región, los 
+costos del tiempo médico, o de internación, son mucho menores en términos relativos que 
+en EE.UU. u otros países desarrollados, mientras que los costos de las nuevas tecnologías 
+son muchas veces similares a la de aquellos países).(IECS 2012) 
+ 
+En una revisión sistemática que realizó el IECS junto con investigadores de la Universidad 
+de York para evaluar la transferibilidad de EE en nuestra región de Latinoamérica, de los 
+521 estudios relevados, 72 cumplieron con los criterios de inclusión del estudio. Más de un 
+tercio de los mismos (36%) no especificó el tipo de Evaluación Económica. Casi el 40% 
+se  basaban  en  datos  de  pacientes  individuales  de  ensayos  clínicos,  y  un  tercio  estaban 
+basados en modelos. Observaron que era muy difícil trasladar resultados de un ámbito a 
+otro, debido a que la gran mayoría de los estudios tenían problemas metodológicos o de 
+reporte que impedían la transferibilidad a otros ámbitos (Augustovski 2009). 
+Como se explica en módulos anteriores la humanidad ha logrado incrementar la esperanza 
+de vida en los últimos 100 años a través del control de enfermedades infecciosas, el acceso 
+a la vacunación, el desarrollo de la atención primaria de la salud y la instalación de la 
+prevención  de  enfermedades  y  la  promoción  de  la  salud,  se  ha  llegado  al  perfil 
+epidemiológico  actual.  De esta manera,  la  transición  demográfica y epidemiológica en 
+todo el mundo a ha hecho que las enfermedades crónicas no transmisibles como el cáncer, 
+las afecciones cardiovasculares, las complicaciones de las enfermedades respiratorias y 
+las  lesiones  hayan  adquirido  un  importante  protagonismo  en  la  determinación  de  la 
+expectativa  de  vida.  Ahora  la  pregunta  es  si  esos  años  adicionales  de  vida  son  sanos, 
+productivos y de calidad? 
+A partir del siglo XVII, los indicadores de mortalidad y morbilidad han recibido atención 
+prioritaria por los administradores de la salud pública y en particular, por los decisores 
+del sector salud. 
+Quienes  toman  estas  decisiones  se  enfrentan  a  la  tarea  de  responder  a  las  prioridades 
+actuales  de  prevención  y  control  de  enfermedades,  a  la  vez  que  son  responsables  de 
+predecir las futuras prioridades. Tales decisiones han de basarse en indicadores globales 
+que cuantifiquen la carga de enfermedad a nivel poblacional. Estos indicadores han de 
+combinar de manera coherente y con una unidad de medida común las muertes y el tiempo 
+de vida sana perdido por una enfermedad. Ese tipo de indicadores globales sirven  para 
+tener un patrón común con el que cuantificar la carga de enfermedad de la 
+ 
+población. La duración de la vida combinada con algún tipo de noción de su calidad se 
+refleja en los siguientes indicadores poblacionales: 
+•  Años de vida potencial perdida (VPP), basados en los años de vida perdidos por 
+muerte prematura (es decir, antes de una edad arbitrariamente determinada); 
+•  Esperanza de vida sana (EVS); 
+•  Esperanza de vida sin discapacidad (EVSD); 
+•  Esperanza de vida ajustada por discapacidad (EVAD) 
+•  Años de vida ajustados según calidad (AVAC); 
+•  Años de vida ajustados según discapacidad (AVAD) 
+La toma de decisiones en salud se fundamenta en la eficacia, la efectividad y la seguridad 
+del  paciente  y  se  hace  necesario  incluir  también  la  Evaluación  Económica  de  las 
+Intervenciones Sanitarias y para éstas las últimas 2 (AVAC) y (AVAD) que son las que 
+explicaremos. 
+4.- Años de vida ajustados a calidad AVAC 
+La medida de AVAC es la más utilizada en informes de evaluación de tecnologías de la 
+salud y en estudios de costo efectividad clínica, este indicador denominado años de vida 
+ajustados a calidad (AVAC) o en inglés QALY es una medida que intenta expresar a 
+cuanto equivale un año viviendo con una determinada condición. 
+Este instrumento de medición ha tomado fuerza en los últimos años por la importancia de 
+su aplicabilidad en la toma de decisiones clínicas que van a establecer el nivel de calidad 
+de vida del individuo, sin dejar de lado la marcada influencia de su entorno geográfico, el 
+contexto  socioeconómico  y  la  autopercepción.  De  igual  manera  permite  identificar  el 
+capital  de  salud  del  individuo  más  allá  de  su  capacidad  física,  logrando  determinar  su 
+grado de productividad. (Ortiz 2011) 
+El  AVAC  es  una  medida  con  respecto  a  la  calidad  de  vida  que  favorece  la  toma  de 
+decisiones clínicas, teniendo en cuenta la condición inicial del paciente y los beneficios 
+ 
+obtenidos  al  instaurar  determinado  tratamiento.  Para  tal  fin,  realiza  evaluaciones 
+diagnósticas,  valoración  de  necesidades  y  define  la  asignación  de  recursos,  su  utilidad 
+actual  permite  la  racionalización  de  los  recursos  a  partir  de  la  toma  de  decisiones  en 
+cuanto  a  intervenciones  en  salud  se  refiere,  este  aspecto  gestiona  la  efectividad  de  los 
+procesos de identificación de daños en la salud y prioridades de atención, determinando 
+el costo beneficio, costo efectividad y costo utilidad que sirve para el diseño de políticas 
+en salud. 
+Los  AVAC  se  inventaron  en  los  años  70  y  desde  mediados  de  los  años  90  se  han 
+convertido en una herramienta estándar reconocida a nivel internacional. Un AVAC es el 
+producto aritmético de la esperanza de vida combinado con una medida de la calidad de 
+vida en los años restantes. El cálculo es relativamente simple; se sopesa la cantidad de 
+tiempo que es probable que pase una persona en un estado de salud en particular con una 
+puntuación  de  utilidad  procedente  de  valoraciones  estándar.  En  dichos  sistemas  de 
+valoración, el “1” equivale a una salud perfecta y el “0” a la muerte. Dado que algunos 
+estados de salud se caracterizan por una discapacidad y dolor graves, se consideran peor 
+que la muerte, por lo que reciben valores negativos. (Phillips 2009), pero lo importante  a 
+destacar  es  que  los  AVAC  permiten  una  comparación  cuantitativa  entre  distintas 
+intervenciones  de  salud  pública  y  tratamientos  médicos,  facilitando  la  priorización  de 
+recursos y la evaluación del impacto en la calidad de vida de las poblaciones. 
+4.1.-Obtención de los valores de los AVAC o QALY 
+Si una intervención proporciona una salud óptima durante un año adicional, produciría 
+un AVAC. Igualmente, una intervención que ofreciera dos años más de vida con un estado 
+de salud de 0,5 equivaldría a un AVAC. Este efecto está relacionado con su coste, el coste 
+por AVAC. Por ejemplo, si un nuevo tratamiento proporcionara 0,5 AVAC adicionales y 
+el coste por paciente del nuevo tratamiento fuera de 5.000 $, el coste por AVAC sería de 
+10.000 $(5.000/0,5). (Drummond 2001) 
+Para conocer el valor o utilidad que una persona le da a un determinado estado de salud 
+se puede emplear el siguiente método. Le describimos a esta persona el estado de salud, 
+por  ejemplo  diálisis  renal,  y  le  preguntamos  por  cuanto  tiempo  en  plena  salud  estaría 
+ 
+dispuesto a cambiar un año en diálisis renal. Entonces supongamos que esta persona nos 
+ 
+contesta  que  en  lugar  de  vivir  un  año  en  diálisis  renal  le  resultaría  equivalente  vivir  8 
+meses en plena salud(debido a que obviamente está dispuesta a sacrificar cierta duración 
+de la vida, 4 meses en este caso, a cambio de mejorar su calidad). Con esta información 
+se puede estimar cual es la “equivalencia” para esta persona: 
+8 meses en plena salud= 12 meses en diálisis➔➔ (8/12)= 0,67 AVACs 
+Es decir que, para esta persona, un año en diálisis equivale a 0,67 de año en plena salud. 
+Gráfico 1.AVAC obtenidos a raíz de una intervención. 
+Fuente:  Narayan.Curso  para  la  solicitud  de  subvenciones  para  proyectos  de  investigación 
+traslacional FID-BRIDGES.2011 
+Los  AVAC  pueden  carecer  de  sensibilidad  y  ser  difíciles  de  aplicar  en  el  caso  de 
+enfermedades  crónicas  y  tratamientos  preventivos.  La  derivación  de  “utilidades  del 
+estado de salud” para definir los factores de peso para estados de salud específicos es 
+subjetiva y objeto de controversia. 
+ 
+5.- Los años de vida ajustados por discapacidad (AVAD) 
+Los primeros en aplicar este término fueron incorporados por Sanders en los años 60 y 
+continúa  con  Sullivan,  quien  en  los  70  definió  los  métodos  para  el  cálculo  de  las 
+expectativas de vida –EV– con y sin discapacidad. Pero no resulta hasta que en 1993 se 
+consolidan los intentos previos por construir un indicador que resumiese las medidas de 
+mortalidad y morbilidad, al usar los AVADs como un indicador sintético de salud en el 
+marco del “Informe de Desarrollo Mundial 1993: Invertir en Salud”. 
+Los AVAD representan la suma del valor actual de laos años futuros de vida perdidos a 
+través de la mortalidad prematura y el valor actual de los años de vida futura ajustados 
+para la gravedad promedio (frecuencia e intensidad) de cualquier discapacidad mental o 
+fisca causada por una enfermedad o lesión. Por lo representan un indicador de algo que 
+se pierde en lugar de algo que se gana: es importante destacar que los AVAD no son algo 
+que se desee en sí, sino que se lo que se busca en su reducción. Se presentaron por primera 
+vez en el informe de Desarrollo Mundial del Banco Mundial 1993 y en la Revisión de 
+Prioridades para el Control de Enfermedad (Disease Control Priorities Review) como un 
+método  para  la  para  estimar  la  carga  mundial  de  morbilidad  y  como  un  criterio  de 
+valoración para usado en el análisis de costo efectividad. En 1996 se elaboro una segunda 
+versión utilizada por Murray y López en “Carga Mundial de Morbilidad”. 
+Desde  1993  los  AVAD  han  sido  utilizados  en  el  análisis  de  costo  –efectividad  tanto  a 
+nivel microeconómico como en ejercicios de priorización sectorial. Los AVAD combinan 
+los  años  potenciales  de  vida  perdidos  (APVP)  más  los  años  vividos  con  discapacidad 
+(AVD) dentro del proceso salud enfermedad. Su principal utilidad se refiere a los estudios 
+de carga de la enfermedad, los cuales se definen como un indicador que permite medir las 
+pérdidas  de  salud  que  para  una  población  representan  la  mortalidad  prematura  y  la 
+discapacidad asociada a las enfermedades.(Fox Rushby) 
+ 
+Grafico 2. Valor relativo de un año de la vida vivido a diversas edades, según lo ponderado en AVAD.  
+Fuente: Nelson Alvis y María Teresa Valenzuela, 2010. 
+En el proyecto de Carga Mundial de Enfermedad en el año 2000 se combinan los efectos 
+de la mortalidad prematura y de la discapacidad, integrando en una sola medida el efecto 
+sobre  la  población  de  los  principales  trastornos  de  salud,  mortales  o  no  mortales.  La 
+principal unidad para medir esta carga de enfermedad son los años de vida ajustada según 
+discapacidad (AVAD) en los que se combinan 
+•  los  años  de  vida  perdida  (AVP),  calculados  a  partir  de  las  muertes  a  cada  edad 
+multiplicadas por los años restantes de vida que cabría esperar según una esperanza de 
+vida general, estándar para todos los países; y 
+•  los años de vida perdidos por discapacidad (AVPD), calculados multiplicando los casos 
+nuevos de lesión o enfermedad por la duración media de la enfermedad y por un peso de 
+discapacidad que refleja la gravedad de la enfermedad en una escala de 0 (salud perfecta) 
+a 1 (muerte). 
+Por lo tanto: 
+AVAD=AVP+AVPD 
+ 
+En  el  caso  de  los  AVAD,  la  escala  utilizada  para  medir  el  estado  de  salud  se  invierte 
+convirtiéndose en una escala de gravedad en la que el “0” equivale a una salud perfecta y 
+“1”  equivale  a  la  muerte.(  Al  revés  que  los  AVAC).  Los  factores  de  peso  se  ajustan 
+dependiendo de la edad para reflejar la preferencia social en relación con los años de vida 
+de un adulto joven (por encima de un adulto mayor o un niño). También se descuentan 
+con  el  tiempo,  lo  que  favorece  los  beneficios  inmediatos  para  la  salud,  más  que  los 
+beneficios futuros. 
+También se han definido seis clases de discapacidad entre la salud perfecta y la muerte. 
+La capacidad limitada se ha definido arbitrariamente como una reducción del 50% ó más 
+de la normal. Al calcular los AVAD se consideran por separado la duración y la gravedad 
+de cada condición. 
+Cuadro 1.Ponderaciòn de la discapacidad, según clase, descripción y peso. 
+     Fuente: En base a Murray 1994. 
+Un AVAD perdido es un año perdido de vida “sana” y la carga de enfermedad así medida 
+es la brecha entre el nivel actual de salud de la población y el nivel ideal de una población 
+ 
+donde todos vivieran hasta una edad avanzada sin padecer discapacidad. En la población 
+que se toma como norma la esperanza de vida al nacer son 80,0 años para los varones y 
+82,5 años para las mujeres. En el cálculo estándar de los AVAD en los informes recientes 
+de la OMS sobre la salud mundial se aplican descuentos temporales  y pesos etarios no 
+uniformes, lo que significa que se da menos peso a los años vividos a edades tempranas 
+o  avanzadas.  Usando  los  pesos  etarios  y  el  descuento  temporal  correspondiente,  una 
+muerte en el primer año de vida infantil corresponde a una pérdida de 33 AVAD y las 
+muertes en edades entre 5 y 20, a una pérdida de unos 36 AVAD. De forma que una carga 
+de enfermedad de 3300 AVAD en una población sería aproximadamente equivalente a la 
+carga de 100 defunciones de menores de un año o a la de 5500 personas de 50 años de 
+edad viviendo un año con ceguera (cuyo peso de discapacidad es 0,6).(OPS 2011). 
+En síntesis, los  AVADs se  han consolidado como  indicadores de salud que resumen y 
+permiten comparar el impacto de los riesgos (mortales y no mortales) entre comunidades 
+mediante estudios de carga de enfermedad. Los AVACs cumplen hoy un papel esencial 
+como  medida  de  resultado  en  los  estudios  de  evaluación  económica  (análisis  de  costo 
+efectividad  y  costo  utilidad).  Como  medida  de  evaluación  económica  los  evaluadores 
+determinan los AVAD evitados, mediante la aplicación de intervenciones específicas que 
+reducen la discapacidad y/o mortalidad, mientras que los AVAC estiman el impacto de 
+una  intervención  en  incrementar  la  calidad  y  la  esperanza  de  vida.  (AVAC  ganados). 
+Tomando en consideración las diferencias de AVAC y AVAD en evaluación económica 
+se  puede  decir  que  estos  métodos  constituyen  la  visión  opuesta  del  mismo  hecho21. 
+Mientras AVADs son un mal que debe ser minimizado AVAC son un bien que debe ser 
+maximizado. Aspectos prácticos en investigación han llevado a incrementar el uso de los 
+AVADs en países en desarrollo donde resulta caro establecer estudios clínicos para medir 
+los parámetros necesarios para estimar AVACs. Por otro lado, países desarrollados como 
+el Reino Unido, EEUU y Canadá entre otros tienden a intensificar (y recomendar) el uso 
+de AVADs debido a su supuesta superioridad metodológica. 
+6.-Estudios de Carga de Enfermedad 
+6.1.-Antecedentes 
+ 
+Históricamente la mortalidad infantil, la esperanza de vida y las tasas de mortalidad por 
+causa  han  sido  los  indicadores  más  usados  para  medir  y  comparar  la  salud  de  las 
+poblaciones,  e  incluso  para  definir  su  grado  de  desarrollo  social  y  humano.  Pero  las 
+medidas  de  mortalidad  sólo  reflejan  una  de  las  consecuencias  de  las  enfermedades  y 
+lesiones: la pérdida potencial de los individuos y poblaciones. No valoran en cambio las 
+pérdidas funcionales (discapacidad) y de bienestar que provocan las distintas patologías. 
+Los cambios demográficos (envejecimiento de la población) y epidemiológicos (mayor 
+peso de las enfermedades no transmisibles) hacen necesario considerar las consecuencias 
+no mortales de las enfermedades.  La utilización de medidas de salud que combinan la 
+duración  de  la  vida  ponderada  en  función  del  estado  de  salud  en  que  se  vive  se  ha 
+extendido  ampliamente  durante  los  últimos  treinta  años.  Genéricamente,  cuando  estas 
+medidas tienen un enfoque poblacional, se denominan medidas sintéticas de salud de las 
+poblaciones. 
+La Carga Global de la Enfermedad “Global Burden of Disease” fue un proyecto liderado 
+por el Dr. Christopher Murray en la década de años 90. Este proyecto fue desarrollado 
+por la Organización Mundial de la Salud (OMS) y el Banco Mundial, y en él se propuso 
+un indicador único para medir el impacto de las pérdidas mortales y no mortales de las 
+enfermedades  y  los  accidentes  en  las  personas  para  orientar  la  toma  de  decisiones  por 
+medio de la priorización e inversión económica en salud. 
+La medida de la Carga de Enfermedad permite conocer simultáneamente la frecuencia y 
+distribución  de  las  enfermedades  y  lesiones  y  sus  consecuencias  mortales  y 
+discapacitantes en la población. Es un indicador de importancia creciente en las  políticas 
+de salud, contribuyendo a la toma de decisiones y a la determinación de prioridades de 
+salud de una población en un momento dado. 
+La  carga  de  enfermedad  se  concibió  como  instrumento  para  guiar  las  políticas  de 
+inversiones en salud para dar idea de las prioridades mundiales de investigación sanitaria 
+y programas sanitarios internacionales. Los análisis basados en estimaciones  de pérdida 
+de AVAD por distintas causas y factores de riesgo han dado nuevas perspectivas sobre la 
+importancia relativa de las distintas áreas de prevención de las enfermedades. 
+ 
+El estudio de carga de la enfermedad parte de los AVAD y no de los AVAC, que como 
+explicamos  anteriormente  es  la  medida  de  las  pérdidas  de  salud  ocasionadas  por  las 
+consecuencias mortales y no mortales de las enfermedades y lesiones en una población, 
+un  estudio  de  carga  de  enfermedad  sirve  para  evaluar  y  comparar  la  morbilidad  y 
+mortalidad en las diversas regiones del mundo. 
+Los estudios de Carga de Enfermedad permiten: 
+•  Medir y comparar la salud de las poblaciones o grupos sociales. 
+•  Conocer la evolución de la salud de una población o la magnitud de un problema de 
+salud a través del tiempo. 
+•  Medir  y  comparar  la  importancia  de  los  diferentes  problemas  de salud de una 
+población en un momento dado. 
+•  Medir los resultados de las intervenciones, que se realizan frente a un problema de 
+salud concreto. 
+•  Realizar estudios de coste-efectividad, utilizando como efecto los AVAD 
+•  Utilizar estos resultados como un instrumento más en la definición de prioridades 
+en salud y orientar la asignación de recursos. 
+Desde entonces numerosos países y organizaciones han utilizado los estudios de Carga 
+de Enfermedad (CdE) (estimando AVAD) tanto para describir la situación de salud de 
+una población como para orientar las políticas sanitarias, como se observa en la siguiente 
+imagen las enfermedades con mayor carga son las infecciosas y parasitarias, seguidas de 
+las enfermedades diarreicas y la meningitis. Las flechas rojas indican picos significativos 
+en enfermedades como las infecciones respiratorias y las enfermedades no transmisibles, 
+sugiriendo  que  estas  condiciones  representan  una  alta  carga  de  enfermedad  en 
+comparación con otras. 
+ 
+Gráfico 3. Carga de enfermedad por condiciones específicas; AVAD según causa.2004 
+Fuente: OMS 2004. 
+6.2.- Informe sobre la Carga de Enfermedad Global 2021 
+En seguimiento al trabajo iniciado por el Banco Mundial y la Organización Mundial de la Salud en 1991, 
+en 2021 el IHME volvió a relanzar este estudio, el cual está basado en 328,938 fuentes de datos, revela 
+desequilibrios en la salud entre diferentes edades, sexos, ubicaciones y grupos socioeconómicos, y destaca 
+el impacto de la pandemia de COVID-19, junto con otros desafíos para la salud. Un hallazgo preocupante 
+es la significativa reducción de 1.6 años en la esperanza de vida entre 2019 y 2021, atribuida a la pandemia 
+de COVID-19. A pesar del devastador impacto de la pandemia, la perspectiva a largo plazo muestra un 
+progreso continuo en la reducción de la mortalidad, con un aumento de 22.7 años en la esperanza de vida 
+desde 1950 hasta 2021. 
+El estudio también explora las tendencias demográficas, incluida la transición global en la fertilidad que 
+llevará a la mayoría de los países a niveles de fertilidad por debajo del nivel de reemplazo para el año 
+2100, es decir, menos de 2.1 hijos por persona con capacidad de dar a luz, generando inquietudes sobre el 
+envejecimiento  de  la  población,  la  necesidad  de  políticas  de  inmigración  éticas  y  la  protección  de  los 
+
+derechos  en  salud  reproductiva.  Además,  el  GBD  2021  examina  la  carga  de  las  enfermedades  no 
+infecciosas y cómo los factores de riesgo como la hiperglucemia, el abuso de drogas y la obesidad afectan 
+los resultados de salud. 
+A pesar de los desafíos actuales, incluida la resistencia antimicrobiana y el cambio climático, el estudio 
+GBD 2021 ofrece una visión cautelosamente optimista sobre el futuro de la salud mundial, abogando por 
+estrategias basadas en evidencia para mitigar los riesgos y mejorar los resultados de salud. Predice que la 
+esperanza de vida mundial aumentará en 4.6 años en aproximadamente tres décadas, con pronósticos hasta 
+2050 sugiriendo el potencial de mejoras aún mayores si se abordan de manera equitativa los principales 
+factores de riesgo, como la contaminación del aire, la hiperglucemia, el alto índice de masa corporal y 
+otros riesgos relacionados con la obesidad y el síndrome metabólico. 
+En el siguiente cuadro ( cuadro 2), se observa que la esperanza de vida mundial ha aumentado 6.2 años 
+desde 1990, en gran medida gracias a: menores tasas de mortalidad por diarrea e infecciones de las vías 
+respiratorias  inferiores.  menores  tasas  de  mortalidad  por  ictus,  cáncer  y  cardiopatías  isquémicas  en 
+mayores  de 55 años.  Asimismo, muestra  que el COVID-19  descarriló  las mejoras en salud en muchos 
+lugares. La diabetes y las enfermedades renales son amenazas crecientes para la salud en todo el mundo. 
+ 
+Cuadro 2. Principales causas de muerte en el mundo en 1990, 2019 y 2021. 
+†Los intervalos de incertidumbre son un rango de valores en los que es probable que se incluya la estimación correcta de 
+pérdida de salud por una causa concreta.  
+*Enfermedad pulmonar obstructiva crónica  
+**Otras causas de mortalidad relacionadas con la pandemia; incluye el exceso de mortalidad asociado a la pandemia. 
+Fuente: Institute for Health Metrics and Evaluation, Human Development Network. IHME 2021 
+ 
+Desde  2010,  el  mundo  ha  logrado  éxitos  significativos  en  la  reducción  de  la  carga  de  muchas 
+enfermedades. La carga del VIH/SIDA y las enfermedades diarreicas se redujo a la mitad, y la pérdida de 
+salud por lesiones disminuyó en una cuarta parte. En general, la tasa total de carga global de enfermedad 
+se redujo en un 14.2% entre 2010 y 2019, aunque la pandemia de COVID-19 interrumpió estas tendencias 
+a la baja. 
+La esperanza de vida sana aumentó significativamente en 59 países y territorios entre 2010 y 2021. Sin 
+embargo, la diabetes experimentó el crecimiento más rápido entre las causas de pérdida de salud ajustadas 
+por  edad  y  tamaño  de  la  población,  destacando  la  necesidad  de  abordar  esta  enfermedad  de  manera 
+efectiva. A continuación se presentan las principales causas de carga de enfermedad para los años 2010, 
+2019 y 2021. 
+Cuadro 3. Principales causas de carga de enfermedad en el mundo en 2010, 
+2020 y 2021 
+†Los intervalos de incertidumbre son un rango de valores en los que es probable que se incluya la estimación correcta de pérdida de salud por una causa 
+concreta. 
+ *Enfermedad pulmonar obstructiva crónica.  
+**Otras causas de mortalidad relacionadas con la pandemia incluyen el exceso de mortalidad asociado a la pandemia 
+Fuente: Institute for Health Metrics and Evaluation, Human Development Network. IHME 2023 
+ 
+Predicciones de carga de enfermedad hasta 2050 
+El informe realizado un análisis para el periodo 2022 y 2050, pronosticando un descenso 
+en los estados de salud precaria y las muertes prematuras por enfermedades infecciosas, 
+de la maternidad, nutricionales y neonatales, mientras que la carga de las enfermedades 
+no  infecciosas  aumentará.  Los  investigadores  implementaron  diferentes  escenarios 
+intervencionistas en los que se eliminaron los factores de riesgo fundamentales: “Entorno 
+más  seguro”,  “Riesgos  conductuales  y  metabólicos  mejorados”  y  “Nutrición  infantil  y 
+vacunación mejoradas”. El escenario “Riesgos conductuales y metabólicos mejorados” 
+consigue la mayor reducción en la carga global de enfermedad (un 13% menos de AVAD 
+en 2050 que el escenario más probable) 
+: Instituto para la Medición y Evaluación de la Salud (IHME). Carga Mundial de Morbilidad 2021: 
+Hallazgos del Estudio GBD 2021. Seattle, WA: IHME, 2024 
+Para más información de este estudio. 
+Información sobre el estudio https://www.healthdata.org/research-analysis/gbd  
+Datos de resultados descargables GBD Results tool https://vizhub.healthdata.org/gbd-results  
+ 
+Global Health Data Exchange https://ghdx.healthdata.org/gbd-2021 
+7.- Carga de Enfermedad y Gasto en Salud: 
+A partir del enfoque de “Carga de Enfermedad”, se explicitó como este indicador permite 
+identificar las principales patologías en los países de LAC. Ante esta situación y como 
+parte del enfoque de Economía de Salud aplicada surge que las Políticas de Salud de cada 
+país  deberán  focalizarse  en  las  Necesidades  de  Salud,  reflejadas  como  patologías 
+prevalentes por el indicador de “Carga de Enfermedad”. 
+Esta situación de salud de las poblaciones beneficiarias de cada país, se reflejará en el 
+desarrollo de programas sanitarios orientados a resolver las patologías identificadas. Por 
+ende, los nivelesde Presupuestos de Gastos de los Ministerios de Salud de los respectivos 
+países  de  LAC  debieran  reflejar  aunque  sea  parcialmente  esta  realidad,  mediante  sus 
+partidas de gastos asociadas a los programas sanitarios correspondientes (p.e.: Programa 
+Materno Infantil). 
+A  manera  de  ejemplo  de  dicha  modalidad  se  incluyen  un  cuadro  con  la  modalidad 
+propuesta  para  la  elaboración  del  Plan  de  Salud  de  la  Secretaria  de  Sanidad  de  la 
+Comunidad Autónoma de “Las Palmas y Gran Canaria” de España. 
+
+Cuadro 4: Plan de Salud y Programas Sanitarios por patologías prevalentes. 
+Estructura del Plan de Salud 2003-2007 
+OBJETIVOS GENERALES DEL PLAN DE SALUD 
+Objetivos Generales 
+Cardiopatía Isquémica 
+Objetivos Generales 
+Envejecimiento 
+Objetivos Generales 
+Cáncer 
+Objetivos Generales 
+Accidentes 
+Objetivos Generales 
+Diabetes Mellitus 
+Objetivos Generales 
+Salud Mental 
+Objetivos Específicos de Reducción de Riesgos 
+Objetivos Específicos de Mejora de la Oferta Asistencial 
+Condiciones Necesarias para Consolidar el Plan de Salud 2003-2007 
+
+Fuente: Servicio de Evaluación y Planificación. Servicios Canario de Salud, AES España, 2004. 
+Esta presentación del Plan de Salud del Servicio Canario de Salud, se acompaña de una 
+actualización del Presupuesto, mediante la incorporación de las fichas presupuestarias de 
+cada  uno  de  los  programas  sanitarios  identificados,  como  se  detalla  en  el  cuadro  a 
+continuación: 
+Cuadro 5: Modalidad de Formulación de Fichas Presupuestarias por Programas Sanitarios. 
+Procedimiento de elaboración del Plan de Salud 
+2003-2007 
+Análisis continuo del estado de salud de la población en cada Área de Salud 
+Identificación y selección de los problemas de salud de mayor prioridad 
+Seleccionar las intervenciones de mayor coste-efectividad entre aquellas de 
+efectividad científicamente contrastada 
+Identificación y asignación de recursos necesarios para garantizar la ejecución 
+de las acciones contempladas en el Plan de Salud 
+Elaboración de la Ficha Financiera del Plan de Salud de Canarias 2003-2007 
+Fuente: Servicio de Evaluación y Planificación. Servicios Canario de Salud, AES España, 2004. 
+8.-Coberturas Explícitas y Herramientas de Gestión: 
+Los países de LAC exponen Necesidades de Salud muy similares y en sus Sistemas de 
+Salud  también  comparten  similitudes,  ya  que  los  mismos  suelen  presentar  Modelos  de 
+Salud Segmentados y Fragmentados, Poblaciones con dificultades de acceso y sistemas 
+de seguros insuficientes para garantizar la cobertura universal de su población. 
+Ante  esta  situación,  las  Políticas  Sanitarias  deben  efectuar  una  priorización  de 
+Necesidades de Salud y avanzar hacia el diseño de un conjunto o paquete de prestaciones 
+de salud focalizado en el acceso de las poblaciones de menores ingresos a los niveles de 
+
+prestaciones que les garanticen una mejor calidad de vida. 
+Estas prestaciones reciben diversas denominaciones según los países y pueden presentar 
+una cobertura para grupos etarios particulares (p.e.: Plan Nacer de Argentina) o para la 
+Población  en  conjunto  (p.e.:  El  denominado  conjunto  de  prestaciones  de  Garantías 
+Explícitas de Salud: GES). La elaboración de este tipo de paquetes implica un análisis 
+previo de la “Carga de Enfermedad” de la población beneficiaria y de posteriores estudios 
+de Análisis de Costo Efectividad (ACE), para identificar los conjuntos de prestaciones 
+que brinden la mejor efectividad clínica a menor costo2. 
+
+Bibliografía para la Elaboración de la clase: 
+•  Alvis,  N.  and  M.  Valenzuela  (2010)  Los  QALYs  y  DALYs  como  indicadores 
+sintéticos de salud. Rev Med Chile. 138(2): p. 83-87 
+•  Augustovski F, Iglesias C, Manca A, Drummond M, Rubinstein A, García  Martí 
+S. (2009) Generalizability of Health Economic Evaluations in Latin America and 
+the Caribbean Region. En prensa, Pharmacoeconomics 
+•  Battista  R,  Hodge  MJ  (1999)  The  evolving  paradigm  of  health  technology 
+assessment  reflections  for  the  Millennium.  Journal  of  the  Canadian  Medical 
+Association, 160(10):1464-1467 
+•  Cutler  D,  McClellan  M.  (2001)  Is  technological  change  in  medicine  worth  it? 
+Health Affairs, 20: 11-29. 
+•  Deyo RA. (2002) Cascade effects of medical technology. Annual Review Public 
+Health. 23:23-44. 
+•  Drummond  M  (2008),  Key  principles  for  the  improved  conduct  of  health 
+technology assessments for resource allocation decisions. EUR-ASSESS. Report 
+from the EUR-ASSESS Project. 
+•  Drummond  MF,  Schwartz  JS,  Jönsson  B,  Luce  BR,  Neumann  PJ,  Siebert  U, 
+Sullivan SD (2008) Key principles for the improved conduct of health technology 
+assessments for resource allocation decisions. Int J Technol Assess Health Care. 
+•  Gabbay J, Walley T. (2006) Introducing new health interventions. BMJ; 332:64- 
+65. 
+•  Guia  para  la  elaboración  de  informes  de  evaluación  de  tecnologias  sanitarias 
+Mercosur.  xx  reunión  ordinaria  del  sgt  nº  11  “salud”/comisión  de  servicios  de 
+atención a las salud/subcomisión de evaluación y uso de servicios de tecnologías 
+29 
+de salud/acta nº01/08.2008 
+2 Rovira, J. “Conjunto de Prestaciones de salud: objetivos, diseño y aplicaciones”, 2003. 
+•  Fox-Rushby JA, Hanson K. (2001) Calculating and presenting disability adjusted 
+life  years  (DALYs)    in    cost-effectiveness    analysis.    Health    Policy    Plan. 
+Sep;16(3):326-31. 
+• 
+Institute for Health Metrics and Evaluation, Human Development Network, The 
+World Bank. (2013) La carga mundial de morbilidad: generar evidencia, orientar 
+políticas. Edición regional para América Latina y el Caribe. Seattle, WA: IHME. 
+•  Ortiz Amezquita Emma Adriana, Lorena Plata Castillo. Análisis de la utilidad  de 
+los  años  de  vida  ajustados  a  calidad  en  la  toma  de  decisiones  costo-efectivas. 
+Revista CES Salud Pública; Vol 2, No 2 .2011 
+•  Phillips C, Thompson G. (2009) Health economics. Segunda Edición. 
+•  Venkat Narayan, Curso para la solicitud de subvenciones para proyectos de 
+investigación traslacional FID-BRIDGES. Universidad de Emory, Atlanta 
+www.healthmetricsandevaluation.org/gbd/visualizations/gbd-arrow-diagram 
+
+3- 
+­­ Leer toda la bibliografía obligatoria: 
+•  Rovira, J. et al. (2003) Conjunto de 
+Beneficios en Salud: objetivos, diseño y 
+aplicaciones. OPS/OMS, WDC. 
+•  Glassman, A, (2014) Herramientas de Economía de Salud aplicada al Sector 
+Salud, Congreso IHEA-ECHE, Dublín. 
+•  Giovanella, et. al. (2012) Sistemas de Salud en Suramérica: desafíos para la 
+universalidad, la integralidad y la Equidad. ISAGS. Brasil. 
+•  CONEVAL, (2014) “Informe de Evaluación de la Política de Desarrollo Social”. 
+México. 
+2-  Si te interesa ampliar los contenidos presentados, podes leer los siguientes 
+textos 
+•  Dieleman, J. et al, (2013) Evaluation of Health Aid and its Impact, Health Economics 
+Journal. 
+3-  Realizar  la  actividad  semanal  correspondiente  a  la  clase  9  cuyas  consignas 
+están en el campus virtual 
